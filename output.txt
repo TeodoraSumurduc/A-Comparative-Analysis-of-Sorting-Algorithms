@@ -1,0 +1,72 @@
+Sortarile pentru testul 1:
+<function SortarePython at 0x0000023514C20670>:0.00012469999999999148 a sortat corect
+<function shellSort at 0x0000023514C205E0>:0.000942399999999996 a sortat corect
+<function RadixSortBaza2la16 at 0x0000023514C20550>:0.0457978 a sortat corect
+<function RadixSortBaza16 at 0x0000023514C20430>:0.0023826000000000125 a sortat corect
+<function RadixSortBaza2la8 at 0x0000023514C204C0>:0.0013016000000000139 a sortat corect
+<function mergeSort at 0x0000023514C20310>:0.0025977999999999835 a sortat corect
+<function InsertionSort at 0x0000023514C20280>:0.00012029999999998986 a sortat corect
+<function CountingSort at 0x00000235148EF040>:0.11682769999999998 a sortat corect
+Sortarile pentru testul 2:
+<function SortarePython at 0x0000023514C20670>:0.0011481999999999881 a sortat corect
+<function shellSort at 0x0000023514C205E0>:0.015310900000000016 a sortat corect
+<function RadixSortBaza2la16 at 0x0000023514C20550>:0.03519530000000004 a sortat corect
+<function RadixSortBaza16 at 0x0000023514C20430>:0.012603099999999978 a sortat corect
+<function RadixSortBaza2la8 at 0x0000023514C204C0>:0.00832090000000002 a sortat corect
+<function mergeSort at 0x0000023514C20310>:0.026998500000000036 a sortat corect
+<function InsertionSort at 0x0000023514C20280>:0.0019206999999999974 a sortat corect
+<function CountingSort at 0x00000235148EF040>:0.003524000000000027 a sortat corect
+Sortarile pentru testul 3:
+<function SortarePython at 0x0000023514C20670>:0.019042100000000006 a sortat corect
+<function shellSort at 0x0000023514C205E0>:0.22830309999999998 a sortat corect
+<function RadixSortBaza2la16 at 0x0000023514C20550>:0.14950809999999992 a sortat corect
+<function RadixSortBaza16 at 0x0000023514C20430>:0.2976322 a sortat corect
+<function RadixSortBaza2la8 at 0x0000023514C204C0>:0.16900769999999987 a sortat corect
+<function mergeSort at 0x0000023514C20310>:0.38845969999999985 a sortat corect
+<function InsertionSort at 0x0000023514C20280>:0.017815499999999984 a sortat corect
+<function CountingSort at 0x00000235148EF040>:0.06768869999999994 a sortat corect
+Sortarile pentru testul 4:
+<function SortarePython at 0x0000023514C20670>:0.2849968999999999 a sortat corect
+<function shellSort at 0x0000023514C205E0>:5.208867600000001 a sortat corect
+<function RadixSortBaza2la16 at 0x0000023514C20550>:0.7421799 a sortat corect
+<function RadixSortBaza16 at 0x0000023514C20430>:2.898123700000001 a sortat corect
+<function RadixSortBaza2la8 at 0x0000023514C204C0>:1.4229979000000004 a sortat corect
+<function mergeSort at 0x0000023514C20310>:5.0199921 a sortat corect
+<function InsertionSort at 0x0000023514C20280>:0.2334473999999993 a sortat corect
+<function CountingSort at 0x00000235148EF040>:0.7167853999999991 a sortat corect
+Sortarile pentru testul 5:
+<function SortarePython at 0x0000023514C20670>:0.00012149999999877537 a sortat corect
+<function shellSort at 0x0000023514C205E0>:0.0011769000000008134 a sortat corect
+<function RadixSortBaza2la16 at 0x0000023514C20550>:0.05325700000000211 a sortat corect
+<function RadixSortBaza16 at 0x0000023514C20430>:0.0033877999999987196 a sortat corect
+<function RadixSortBaza2la8 at 0x0000023514C204C0>:0.0018193999999986943 a sortat corect
+<function mergeSort at 0x0000023514C20310>:0.0020594000000002666 a sortat corect
+<function InsertionSort at 0x0000023514C20280>:0.00011540000000209716 a sortat corect
+<function CountingSort at 0x00000235148EF040>:12.363555799999997 a sortat corect
+Sortarile pentru testul 6:
+<function SortarePython at 0x0000023514C20670>:0.02047560000000459 a sortat corect
+<function shellSort at 0x0000023514C205E0>:0.3108518000000018 a sortat corect
+<function RadixSortBaza2la16 at 0x0000023514C20550>:0.0921510000000012 a sortat gresit
+<function RadixSortBaza16 at 0x0000023514C20430>:0.24842939999999913 a sortat corect
+<function RadixSortBaza2la8 at 0x0000023514C204C0>:0.12092309999999884 a sortat corect
+<function mergeSort at 0x0000023514C20310>:0.38918629999999865 a sortat corect
+<function InsertionSort at 0x0000023514C20280>:0.020540900000000306 a sortat corect
+<function CountingSort at 0x00000235148EF040>:0.05171359999999936 a sortat corect
+Sortarile pentru testul 7:
+<function SortarePython at 0x0000023514C20670>:3.740084600000003 a sortat corect
+<function shellSort at 0x0000023514C205E0>:64.0386572 a sortat corect
+<function RadixSortBaza2la16 at 0x0000023514C20550>:17.908449199999993 a sortat corect
+<function RadixSortBaza16 at 0x0000023514C20430>:41.621819000000016 a sortat corect
+<function RadixSortBaza2la8 at 0x0000023514C204C0>:23.711536599999988 a sortat corect
+<function mergeSort at 0x0000023514C20310>:66.64757269999998 a sortat corect
+<function InsertionSort at 0x0000023514C20280>:2.589774700000021 a sortat corect
+<function CountingSort at 0x00000235148EF040>:8.281464999999969 a sortat corect
+Sortarile pentru testul 8:
+<function SortarePython at 0x0000023514C20670>:0.0014788999999950647 a sortat corect
+<function shellSort at 0x0000023514C205E0>:0.015026299999988169 a sortat corect
+<function RadixSortBaza2la16 at 0x0000023514C20550>:0.057334999999966385 a sortat corect
+<function RadixSortBaza16 at 0x0000023514C20430>:0.023771399999986897 a sortat corect
+<function RadixSortBaza2la8 at 0x0000023514C204C0>:0.01303560000002335 a sortat corect
+<function mergeSort at 0x0000023514C20310>:0.027250600000002123 a sortat corect
+<function InsertionSort at 0x0000023514C20280>:0.0014603000000192878 a sortat corect
+<function CountingSort at 0x00000235148EF040>:0.1371799000000351 a sortat corect
